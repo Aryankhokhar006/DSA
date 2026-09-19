@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0066-plus-one) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1501-circle-and-rectangle-overlapping) |
 ## String
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0053-maximum-subarray) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
