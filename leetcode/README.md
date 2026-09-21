@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 ## Math
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0742-to-lower-case) |
 | [3811-reverse-degree-of-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
 ## Array
@@ -81,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 <!---LeetCode Topics End-->
