@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0066-plus-one) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
