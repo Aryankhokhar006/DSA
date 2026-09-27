@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0066-plus-one) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1501-circle-and-rectangle-overlapping) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3626-smallest-divisible-digit-product-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
+## Enumeration
+|  |
+| ------- |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3626-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
