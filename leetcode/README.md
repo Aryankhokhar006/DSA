@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0013-roman-to-integer) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0742-to-lower-case](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0742-to-lower-case) |
 | [3811-reverse-degree-of-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -117,4 +119,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3626-smallest-divisible-digit-product-i) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
