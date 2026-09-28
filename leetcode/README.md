@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0283-move-zeroes) |
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0283-move-zeroes) |
 ## Divide and Conquer
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
