@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0283-move-zeroes) |
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2639-separate-the-digits-in-an-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 | [4410-count-integers-appearing-in-a-single-block](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4410-count-integers-appearing-in-a-single-block) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2639-separate-the-digits-in-an-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
 ## Stack
 |  |
