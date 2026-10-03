@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0088-merge-sorted-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Bit Manipulation
