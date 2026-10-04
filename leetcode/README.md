@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0066-plus-one) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0326-power-of-three) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1501-circle-and-rectangle-overlapping) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3626-smallest-divisible-digit-product-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0326-power-of-three) |
 <!---LeetCode Topics End-->
