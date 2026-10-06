@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0742-to-lower-case) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 | [3811-reverse-degree-of-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
 ## Array
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
@@ -170,4 +173,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0678-valid-parenthesis-string) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
