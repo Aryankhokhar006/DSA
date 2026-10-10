@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
 | [1603-running-sum-of-1d-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -185,4 +188,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
