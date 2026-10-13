@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0367-valid-perfect-square) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1501-circle-and-rectangle-overlapping) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3626-smallest-divisible-digit-product-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0367-valid-perfect-square) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
