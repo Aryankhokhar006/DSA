@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0389-find-the-difference) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 | [4410-count-integers-appearing-in-a-single-block](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4410-count-integers-appearing-in-a-single-block) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0389-find-the-difference) |
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 ## Sliding Window
