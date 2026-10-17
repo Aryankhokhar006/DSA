@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0066-plus-one) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
