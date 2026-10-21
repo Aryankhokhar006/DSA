@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0050-powx-n) |
 | [0066-plus-one](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0342-power-of-four) |
