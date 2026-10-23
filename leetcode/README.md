@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0367-valid-perfect-square) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1501-circle-and-rectangle-overlapping) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3626-smallest-divisible-digit-product-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 ## String
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
 | [4410-count-integers-appearing-in-a-single-block](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4410-count-integers-appearing-in-a-single-block) |
