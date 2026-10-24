@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
 | [1603-running-sum-of-1d-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1646-kth-missing-positive-number) |
+| [1677-matrix-diagonal-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
@@ -237,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
