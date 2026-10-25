@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 | [0575-distribute-candies](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0898-transpose-matrix) |
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
 | [1603-running-sum-of-1d-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1646-kth-missing-positive-number) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0898-transpose-matrix](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0898-transpose-matrix) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 | [3811-reverse-degree-of-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3811-reverse-degree-of-a-string) |
 ## Stack
@@ -245,5 +247,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
