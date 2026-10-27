@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0898-transpose-matrix) |
