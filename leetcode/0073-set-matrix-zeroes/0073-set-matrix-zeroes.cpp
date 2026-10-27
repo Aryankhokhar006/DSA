@@ -4,7 +4,7 @@ public:
         vector<int>row;
         vector<int>col;
         for(int i =0;i<matrix.size();i++){
-            int j = 0;
+            int j =0;
             while(j<matrix[0].size()){
                 if(matrix[i][j] == 0){
                     row.push_back(i);
@@ -13,17 +13,16 @@ public:
                 j++;
             }
         }
-        for(int i =0;i<row.size();i++){
-            for(int k =0;k<matrix[row[i]].size();k++){
-                matrix[row[i]][k] = 0;
+        for(int i = 0; i < row.size(); i++) {
+            for(int j = 0; j < matrix[0].size(); j++) {
+                matrix[row[i]][j] = 0;
             }
         }
-        for(int j =0;j<col.size();j++){
-            for(int k =0;k<matrix.size();k++){
-                matrix[k][col[j]] = 0;
+
+        for(int i = 0; i < col.size(); i++) {
+            for(int j = 0; j < matrix.size(); j++) {
+                matrix[j][col[i]] = 0;
             }
         }
-    
-        
     }
 };
