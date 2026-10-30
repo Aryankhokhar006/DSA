@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
 | [1603-running-sum-of-1d-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1646-kth-missing-positive-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0907-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1646-kth-missing-positive-number) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
