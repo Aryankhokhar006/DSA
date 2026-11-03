@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3626-smallest-divisible-digit-product-i) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4116-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
+| [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4116-minimum-moves-to-equal-array-elements-iii) |
 | [4316-minimum-swaps-to-move-zeros-to-end](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4316-minimum-swaps-to-move-zeros-to-end) |
 | [4410-count-integers-appearing-in-a-single-block](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4410-count-integers-appearing-in-a-single-block) |
 ## Two Pointers
