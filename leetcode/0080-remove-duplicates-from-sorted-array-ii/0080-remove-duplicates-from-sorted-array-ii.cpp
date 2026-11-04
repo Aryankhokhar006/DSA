@@ -7,7 +7,7 @@ public:
             freq[x]++;
         }
         for (int x : nums) {
-            if (freq[x] > 0 && ans.size() < nums.size()) {
+            if (freq[x] > 0 ) {
                 if (freq[x] > 2)
                     freq[x] = 2;
                 ans.push_back(x);
