@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0350-intersection-of-two-arrays-ii) |
