@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2106-find-greatest-common-divisor-of-array) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3626-smallest-divisible-digit-product-i) |
+| [3859-maximum-product-of-two-digits](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4116-minimum-moves-to-equal-array-elements-iii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4116-minimum-moves-to-equal-array-elements-iii) |
 ## String
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
+| [3859-maximum-product-of-two-digits](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
 | ------- |
