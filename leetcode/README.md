@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0152-maximum-product-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0283-move-zeroes) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0152-maximum-product-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0678-valid-parenthesis-string) |
 ## Geometry
 |  |
