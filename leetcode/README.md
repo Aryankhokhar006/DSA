@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3869-smallest-index-with-digit-sum-equal-to-index) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/4080-smallest-missing-multiple-of-k) |
