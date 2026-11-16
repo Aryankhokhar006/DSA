@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0782-jewels-and-stones) |
+| [0886-score-of-parentheses](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1537-maximum-score-after-splitting-a-string) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0145-binary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0678-valid-parenthesis-string) |
+| [0886-score-of-parentheses](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0886-score-of-parentheses) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1078-remove-outermost-parentheses) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
