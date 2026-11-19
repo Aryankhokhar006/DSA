@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2639-separate-the-digits-in-an-array) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2706-minimum-score-by-changing-two-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2844-sum-of-squares-of-special-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3606-minimum-element-after-replacement-with-digit-sum) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1137-height-checker) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2210-find-target-indices-after-sorting-array) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2706-minimum-score-by-changing-two-elements) |
 | [3859-maximum-product-of-two-digits](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/3859-maximum-product-of-two-digits) |
 ## Sliding Window
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/0957-minimum-add-to-make-parentheses-valid) |
 | [1648-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/1648-minimum-insertions-to-balance-a-parentheses-string) |
 | [2418-minimum-sum-of-squared-difference](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2418-minimum-sum-of-squared-difference) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Aryankhokhar006/DSA/tree/master/LeetCode/2706-minimum-score-by-changing-two-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
